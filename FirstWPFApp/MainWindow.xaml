@@ -9,5 +9,11 @@
         Width="525"
         Height="350"
         mc:Ignorable="d">
-    <Grid x:Name="grid" />
+    <DockPanel x:Name="dockPanel"
+               Width="100"
+               Height="100"
+               Margin="225,177,0,0"
+               HorizontalAlignment="Left"
+               VerticalAlignment="Top"
+               LastChildFill="False" />
 </Window>
