@@ -10,10 +10,8 @@
         Height="350"
         mc:Ignorable="d">
     <DockPanel x:Name="dockPanel"
-               Width="100"
-               Height="100"
-               Margin="225,177,0,0"
-               HorizontalAlignment="Left"
-               VerticalAlignment="Top"
+               Width="490"
+               Height="290"
+               Margin="0,10,0,0"
                LastChildFill="False" />
 </Window>
